@@ -1,1 +1,1 @@
-Sitemap: https://CharlesLehnen.github.io/TestSite/sitemap.xml
+Sitemap: https://wleuenberger.github.io/WebsitePortfolio/sitemap.xml
